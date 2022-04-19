@@ -1,0 +1,7 @@
+checkpoints/
+data/
+results/
+__pycache__/
+.DS_Store
+*.tar
+*.zip
