@@ -10,7 +10,7 @@
 
 **Getting Started**
 
-1. The pretrained models can be downloaded from [Baidu Drive](https://pan.baidu.com/s/14_Wat-OA6ljGfR3Hk8Fk6A) (passward:f6wu) and [Google Drive](https://drive.google.com/file/d/1ZIzGLDB15GRAZAbkfNR0hNWdgQpxeA_r/view?usp=sharing).
+1. The pretrained models can be downloaded from [Baidu Drive](https://pan.baidu.com/s/14_Wat-OA6ljGfR3Hk8Fk6A) (passward:f6wu) or [Google Drive](https://drive.google.com/file/d/1ZIzGLDB15GRAZAbkfNR0hNWdgQpxeA_r/view?usp=sharing).
 
 2. Run the codes as follows for image or video tests.
 
