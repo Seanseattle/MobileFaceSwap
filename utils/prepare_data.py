@@ -52,3 +52,11 @@ class LandmarkModel():
         if kpss is not None:
             kps = kpss[best_index]
         return kps
+
+    def gets(self, img, max_num=0):
+        bboxes, kpss = self.det_model.detect(img, threshold=self.det_thresh, max_num=max_num, metric='default')
+        return kpss
+
+    def gets(self, img, max_num=0):
+        bboxes, kpss = self.det_model.detect(img, threshold=self.det_thresh, max_num=max_num, metric='default')
+        return kpss

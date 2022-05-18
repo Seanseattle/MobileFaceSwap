@@ -5,3 +5,9 @@ __pycache__/
 .DS_Store
 *.tar
 *.zip
+# IntelliJ project files
+.idea
+.idea/*.xml
+.idea/workspace.xml
+**/.idea/workspace.xml **/.idea/tasks.xml
+*.iml
